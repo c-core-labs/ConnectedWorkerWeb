@@ -19,8 +19,7 @@
 	background-color: rgba(0,0,0,0.5);
 }
 .top-wrap-height {
-	height: 60vh;
-	min-height: 460px;
+	height: 650px;
 	transition: height 0.25s;
 }
 .uk-subnav-pill > * > :first-child {
@@ -31,11 +30,11 @@
 	z-index: 2;
 }
 .uk-logo img {
-	height: 200px;
+	height: 75px;
 }
 .subtitle-text {
-	font-size: 1.2em;
-	opacity: 0.7;
+	font-size: 1.5em;
+	color: rgb(230, 230, 230);
 	font-weight: 300;
 }
 .logos-grid img {
@@ -66,4 +65,36 @@
 	color: "orange";
 	text-transform: uppercase;
 	font-weight: 300; */
+}
+
+/* Custom CSS from here */
+
+.uk-logo{
+	width: 500px;
+}
+
+.uk-height-medium {
+    height: 650px;
+}
+
+.shadow{
+	  	text-shadow: 0px 0px 30px #000000;
+}
+.blue-text{
+	color: #005da6;
+}
+
+.light-blue-section { background: #e6f4ff; }
+
+.blue-gradient-section { 
+	background-image: linear-gradient(to right, #1d4387 , #005da6);
+}
+
+.uk-section-large {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.uk-button-primary{
+    background-color: #ce5b28;
+    color: #fff;
 }
