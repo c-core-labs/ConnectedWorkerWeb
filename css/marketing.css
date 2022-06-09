@@ -88,3 +88,7 @@
     background-color: #ce5b28 !important;
     color: #fff  !important;
 }
+
+.border img{
+	border-radius: 10px;
+}
