@@ -92,3 +92,7 @@
 .border img{
 	border-radius: 10px;
 }
+
+.border iframe{
+	border-radius: 10px;
+}
