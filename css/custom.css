@@ -1,0 +1,25 @@
+h2.title {
+	font-family: 'Montserrat'; font-weight: bold;
+  }
+
+  h3.title {
+	font-family: 'Montserrat'; font-weight: bold;
+  }
+
+  h5.title {
+	font-family: 'Montserrat'; font-weight: 500;
+  }
+
+
+  p {
+    /* font-family: 'Montserrat';font-size: 22px; */
+	font-family: 'Montserrat';
+
+  }
+
+
+  a.button {
+    /* font-family: 'Montserrat';font-size: 22px; */
+	font-family: 'Montserrat'; font-weight: bolder;
+
+  }
